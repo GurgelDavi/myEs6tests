@@ -1,1 +1,1 @@
-My ES6 tests
+My_ES6_tests
